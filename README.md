@@ -31,5 +31,5 @@
 ## My Github Stats
 <div align=center>
 
-![Wanda's github stats](https://github-readme-stats.vercel.app/api?username=wagaines&show_icons=true&theme=tokyonight)
+![Wanda's github stats](https://github-readme-stats.vercel.app/api?username=mswgaines&show_icons=true&theme=tokyonight)
 </div>
