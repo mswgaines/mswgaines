@@ -2,7 +2,7 @@
 
 <div align=center>
 
-<h1>Hi, I'm Wanda :happy_face:</h1>
+<h1>Hello, I'm Wanda :octocat:</h1>
 
 </div>
 
