@@ -4,10 +4,10 @@
 
 <h1>Hello, I'm Wanda :octocat:</h1>
 
-</div>
+</div >
 
- <a href="www.linkedin.com/in/wandagaines">
-    <img src="help/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
+ <a href="https://www.linkedin.com/in/wandagaines/">
+    <img src="pics/linkedin.svg" alt="LinkedIn" style="vertical-align:"center:6px 4px">
   </a>  
 
 <h3 align=center>Wanda Gaines | Data Scientist | Charlotte, NC, U.S.A</h3>
