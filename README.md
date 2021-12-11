@@ -6,7 +6,9 @@
 
 </div>
 
-<div align=center><img src="/pics/linkedin.svg" alt="pronouns"></div>
+ <a href="www.linkedin.com/in/wandagaines">
+    <img src="help/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
+  </a>  
 
 <h3 align=center>Wanda Gaines | Data Scientist | Charlotte, NC, U.S.A</h3>
 
@@ -15,11 +17,12 @@
 
 <p align="center">
   <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
-  <img src="/pics/python.svg" alt="python" style="vertical-align:top; margin:4px"> 
-  <img src="/pics/r.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="/pics/office 365.svg" alt="r" style="vertical-align:top; margin:4px"> 
-  <img src="/pics/google cloud platform.svg" alt="r" style="vertical-align:top; margin:4px"> 
-  <img src="/pics/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="/pics/python.svg" alt="Python" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/rsoftware.svg" alt="R Software" style="vertical-align:top; margin:4px">
+  <img src="/pics/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+  <img src="/pics/office_365.svg" alt="Office_365" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/visualstudio_code.svg" alt="Visual Studio" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
   <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
 
  
