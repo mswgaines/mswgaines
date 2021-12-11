@@ -1,16 +1,32 @@
-### Hi there 👋
+<link rel="stylesheet" type="text/css" media="all" href="./styles/style.css" />
 
-<!--
-**mswgaines/mswgaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+<h1>Hi, I'm Wanda :happy_face:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
+
+<h3 align=center>Wanda Gaines | Data Scientist | Charlotte, NC, U.S.A</h3>
+
+<!-- Languages and Tools > -->
+## Languages and Tools 
+
+<p align="center">
+  <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
+  <img src="/pics/SQL.svg" alt="sql" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/r.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/pics/office 365.svg" alt="r" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/google cloud platform.svg" alt="r" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
+
+ 
+</p>
+
+## My Github Stats
+<div align=center>
+
+![Wanda's github stats](https://github-readme-stats.vercel.app/api?username=wagaines&show_icons=true&theme=tokyonight)
+</div>
