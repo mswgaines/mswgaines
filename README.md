@@ -6,7 +6,7 @@
 
 </div>
 
-<div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
+<div align=center><img src="/pics/linkedin.svg" alt="pronouns"></div>
 
 <h3 align=center>Wanda Gaines | Data Scientist | Charlotte, NC, U.S.A</h3>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
-  <img src="/pics/SQL.svg" alt="sql" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/python.svg" alt="python" style="vertical-align:top; margin:4px"> 
   <img src="/pics/r.svg" alt="r" style="vertical-align:top; margin:4px">
   <img src="/pics/office 365.svg" alt="r" style="vertical-align:top; margin:4px"> 
   <img src="/pics/google cloud platform.svg" alt="r" style="vertical-align:top; margin:4px"> 
