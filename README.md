@@ -6,10 +6,14 @@
 
 </div >
 
+<div align=center>
+ 
  <a href="https://www.linkedin.com/in/wandagaines/">
     <img src="pics/linkedin.svg" alt="LinkedIn" style="vertical-align:"center:6px 4px">
-  </a>  
-
+  </a>
+                                                                                      
+</div >
+                                                                                      
 <h3 align=center>Wanda Gaines | Data Scientist | Charlotte, NC, U.S.A</h3>
 
 <!-- Languages and Tools > -->
